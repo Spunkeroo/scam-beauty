@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://scam.beauty/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://scam.beauty/privacy.html</loc>
-    <lastmod>2026-03-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
+  <url><loc>https://scam.beauty/</loc><lastmod>2026-03-13</lastmod><priority>1.0</priority></url>
+  <url><loc>https://scam.beauty/blog-guide-2026.html</loc><lastmod>2026-03-13</lastmod></url>
+  <url><loc>https://scam.beauty/blog-how-to-spot-online-scams.html</loc><lastmod>2026-03-13</lastmod></url>
+  <url><loc>https://scam.beauty/index.html</loc><lastmod>2026-03-13</lastmod></url>
+  <url><loc>https://scam.beauty/privacy.html</loc><lastmod>2026-03-13</lastmod></url>
+  <url><loc>https://scam.beauty/blog/beauty-scams-avoid-2026.html</loc><lastmod>2026-03-13</lastmod></url>
+  <url><loc>https://scam.beauty/blog/beauty-subscription-box-scams-avoid.html</loc><lastmod>2026-03-13</lastmod></url>
+  <url><loc>https://scam.beauty/blog/cosmetic-surgery-scams-unlicensed-clinics.html</loc><lastmod>2026-03-13</lastmod></url>
+  <url><loc>https://scam.beauty/blog/counterfeit-makeup-dangers-spot-fakes.html</loc><lastmod>2026-03-13</lastmod></url>
+  <url><loc>https://scam.beauty/blog/fake-beauty-influencer-promotion-scams.html</loc><lastmod>2026-03-13</lastmod></url>
+  <url><loc>https://scam.beauty/blog/fake-beauty-subscription-boxes-2026.html</loc><lastmod>2026-03-13</lastmod></url>
+  <url><loc>https://scam.beauty/blog/fake-skincare-product-scams-social-media-2026.html</loc><lastmod>2026-03-13</lastmod></url>
+  <url><loc>https://scam.beauty/blog/miracle-anti-aging-cream-scams-exposed.html</loc><lastmod>2026-03-13</lastmod></url>
+  <url><loc>https://scam.beauty/blog/mlm-beauty-scams-pyramid-schemes.html</loc><lastmod>2026-03-13</lastmod></url>
+  <url><loc>https://scam.beauty/blog/skincare-scams-products-dont-work.html</loc><lastmod>2026-03-13</lastmod></url>
 </urlset>
